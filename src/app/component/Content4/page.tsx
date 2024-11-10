@@ -11,11 +11,11 @@ const Content4 = () => {
       <div className="right-side">
         <div className="card-container">
           <div className="card">
-            <h3>User Experience (UX)</h3>
+            <h3>User Experience (Ux)</h3>
            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident natus facere eaque</p>
           </div>
           <div className="card">
-            <h3>User Interface (UX)</h3>
+            <h3>User Interface (UI)</h3>
             <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident natus facere eaque</p>
           </div>
           <div className="card">
